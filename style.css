@@ -1,0 +1,11 @@
+.image{
+	width: 30%;
+	padding-left: 75%;
+	overflow: hidden;
+}
+.div{
+	display: block;
+}
+.Email{
+	background-color: transparent
+}
